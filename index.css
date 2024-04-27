@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+nav{
+    background-color: royalblue;
+    padding: 20px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+main{
+    padding: 20px 60px;
+}
